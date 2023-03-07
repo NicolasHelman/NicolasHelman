@@ -4,8 +4,8 @@
 <h1 align="center">Hi 👋, I'm Nicolás Helman</h1>
 <h3 align="center">Software Developer</h3>
 
-![GitHub followers](https://img.shields.io/github/followers/nicolashelman?label=Follow&style=social) &nbsp;
-<img alt="profile views" src="https://komarev.com/ghpvc/?username=nicolashelman&color=0e75b6&style=flat">
+![GitHub followers](https://img.shields.io/github/followers/nicolashelman?label=Follow&color=blue&style=flat) &nbsp;
+<img alt="profile views" src="https://komarev.com/ghpvc/?username=nicolashelman&color=red&style=flat">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
