@@ -7,10 +7,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/nicolashelman?label=Follow&style=social) &nbsp;
 <img alt="profile views" src="https://komarev.com/ghpvc/?username=nicolashelman&color=0e75b6&style=flat">
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicolashelman" alt="nicolashelman" /></a> 
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -40,9 +36,12 @@
 </p>
 
 <h3 align="left">Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolashelman&show_icons=true&locale=en&layout=compact" alt="nicolashelman" />
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicolashelman&theme=radical" alt="nicolashelman" /></a> 
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicolashelman&" alt="nicolashelman" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolashelman&show_icons=true&locale=en&layout=compact&theme=radical" alt="nicolashelman" />
+</p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicolashelman&theme=radical" alt="nicolashelman" />
 </p>
