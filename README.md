@@ -24,6 +24,20 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
 
+<h3 align="left">Connect with me:</h3>
+<a href="https://linkedin.com/in/nicolas-helman" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+</a>
+<a href="mailto:nhdev1997@gmail.com?Subject=Project%20Web" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+</a>
+<a href="https://api.whatsapp.com/send?phone=+543465441550&text=Hello!" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" />
+</a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
+</a>
+
 <h3 align="left">Stats:</h3>
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicolashelman&theme=radical" alt="nicolashelman" /></a> 
