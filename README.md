@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="http://www.nicolashelman.wuaze.com/img/nhdev.png" alt="logo" height="100px"/>
-</div> 
 <h1 align="center">Nicolás Helman</h1>
 <h3 align="center">Software Developer</h3>
 
